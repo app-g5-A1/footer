@@ -1,0 +1,70 @@
+
+
+
+.footer {
+    background-color: #FF2F45;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom:0;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.information-legal {
+    color: white;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 13px; 
+    margin-left:5%;
+   
+}
+
+.information-legal-element {
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+#information-legal {
+    font-size: 30px
+}
+
+.a-propos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white; 
+    font-size: 13px;
+}
+
+.a-propos-element {
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+#a-propos {
+     font-size: 30px;
+}
+
+.clients {
+    color: white;
+    font-size: 13px;
+    margin-right: 15%;
+}
+
+.clients-element {
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+}
+
+#clients {
+    font-size: 30px
+}
